@@ -2,7 +2,7 @@
 Decrypt protected emails by Cloudflare
 
 
-#Usage
+# Usage
 ```python
 from decryptcf import decrypt
 
